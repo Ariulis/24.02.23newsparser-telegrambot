@@ -1,0 +1,9 @@
+.git
+Dockerfile
+.dockerignore
+.venv
+__pycache__/
+log/
+*.lock
+*.md
+*.json
